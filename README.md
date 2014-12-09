@@ -1,11 +1,16 @@
-# Attendance Application
-This is an application for a Lynda.com course on data-driven Angular.js Applications using FireBase.
+# Angular Base
+This is a starting point for an [AngularJs](https://angularjs.org/) project.
 
 ## Instructions
-1. Make sure you have [node.js](http://nodejs.org/) and [git](http://git-scm.com/) installed on your machine.
-2. Clone this into your local machine using the terminal (mac) or Gitbash (PC) `> git clone https://github.com/planetoftheweb/attendance.git`
-3. CD to the folder `cd angulardata`
-4. Run `> npm-install` to install the project dependencies
-5. Install gulp.js via the Mac terminal or Gitbash on a PC `> npm install -g gulp`
-5. Run the Gulp command `> gulp`
-6. Fire up your browser at `http://localhost:8080`
+1. Run the Gulp command `> gulp`
+2. Fire up your browser at `http://localhost:8080`
+3. Open Codekit, a config file has been included
+
+### Includes
+Adds the following services:
+
+* [AngularFire](https://www.firebase.com/docs/web/libraries/angular/index.html)
+* [Firebase](https://www.firebase.com/docs/web/libraries/angular/quickstart.html)
+* [ngAnimate](https://docs.angularjs.org/api/ngAnimate)
+* [ngRoute](https://docs.angularjs.org/api/ngRoute)
+* [ngAudio](http://danielstern.github.io/ngAudio/)
