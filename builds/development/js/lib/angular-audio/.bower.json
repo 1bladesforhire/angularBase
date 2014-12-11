@@ -18,6 +18,6 @@
     "commit": "5f951a6ed933c79024b68e9cb7fc0a939717eda2"
   },
   "_source": "git://github.com/danielstern/ngAudio.git",
-  "_target": "*",
+  "_target": "~1.2.1",
   "_originalSource": "angular-audio"
 }

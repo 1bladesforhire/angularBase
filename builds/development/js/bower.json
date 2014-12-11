@@ -9,12 +9,12 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "angular": "latest",
-    "angular-route": "latest",
-    "angular-animate": "latest",
-    "angular-audio": "latest",
-    "firebase": "latest",
-    "angularfire": "latest"
+    "angular": "~1.3.6",
+    "angular-route": "~1.3.6",
+    "angular-animate": "~1.3.6",
+    "angular-audio": "~1.2.1",
+    "firebase": "~2.0.6",
+    "angularfire": "~0.9.0"
   },
   "resolutions": {
     "angular": "1.3.6"
